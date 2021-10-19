@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NyBooks</string>
+
+    <!--Books Activity -->
+    <string name="books_title">Books</string>
+
+    <!--Books Details Activity -->
+    <string name="books_details">Details</string>
+    <string name="book_details_title_label">Title</string>
+    <string name="book_details_title_value">The title goes here</string>
+    <string name="book_details_desc_label">Description</string>
+    <string name="book_details_desc_value">The description goes here</string>
+
+    <!-- Errors Books Response -->
+    <string name="books_error_401">Not authorized!</string>
+    <string name="books_error_400">Unhandled error!</string>
+    <string name="books_error_500">Catastrophic error!</string>
+
+</resources>
